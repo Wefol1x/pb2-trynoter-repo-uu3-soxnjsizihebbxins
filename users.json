@@ -15,18 +15,19 @@
     "friends": [],
     "avatar": "👤",
     "wallet": {
-      "accounts": {
-        "tnw-crypto": {
-          "balance": 0,
-          "created": "2025-11-09T18:35:49.204Z"
-        }
-      },
+      "accounts": {},
       "transactions": [
         {
           "id": "mhs20l04pb9rbqepbsb",
           "type": "account_creation",
           "accountName": "tnw-crypto",
           "timestamp": "2025-11-09T18:35:49.214Z"
+        },
+        {
+          "id": "mhs21d0wlvxfqi9a98q",
+          "type": "account_deletion",
+          "accountName": "tnw-crypto",
+          "timestamp": "2025-11-09T18:36:25.520Z"
         }
       ]
     }
