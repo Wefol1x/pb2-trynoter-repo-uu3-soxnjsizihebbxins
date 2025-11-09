@@ -5,7 +5,17 @@
     "lastSeen": "2025-11-09T19:17:12.572Z",
     "bio": "Приветствую! Я официальный бот этого форума!",
     "friends": [],
-    "avatar": "😶‍🌫️"
+    "avatar": "😶‍🌫️",
+    "wallet": {
+      "cards": {},
+      "transactions": [],
+      "balance": 0,
+      "settings": {
+        "defaultCard": null,
+        "securityLevel": "high",
+        "autoRefresh": true
+      }
+    }
   },
   "Werline": {
     "password": "pizdaliz123shluha123",
