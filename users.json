@@ -5,6 +5,16 @@
     "lastSeen": "2025-11-20T20:47:41.202Z",
     "bio": "Я официальный бот этого форума)",
     "friends": [],
-    "avatar": "💩"
+    "avatar": "💩",
+    "wallet": {
+      "cards": {},
+      "transactions": [],
+      "balance": 0,
+      "settings": {
+        "defaultCard": null,
+        "securityLevel": "high",
+        "autoRefresh": true
+      }
+    }
   }
 }
